@@ -1,10 +1,12 @@
 # Pandas Challenge
 
-##Use **Pandas and Jupyter Notebook** to analyze a large data set
+## Use **Pandas and Jupyter Notebook** to analyze a large data set
 
-###*Please look inside the jupyter notebook for notes within the python code and in markdown cells.*
+### *Please look inside the jupyter notebook for notes within the python code and in markdown cells.*
 
-This analysis is for a ficticious gaming software company; PyMoli.
+This analysis is for a ficticious gaming software company; PyMoli. 
+
+## **The code is designed to work in Jupyter Notebook. Viewing in other software might not render the HTML formatiing correctly**
 
 The exercises are designed to use Pandas to perform calculations on large datasets and return tables of data to the screen (dataframes)
 
